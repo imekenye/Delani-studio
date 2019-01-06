@@ -9,7 +9,7 @@ body {
 }
 
 header {
-  background-image: url("/assets/backgrounds/h_img.jpg");
+  background-image: url("../assets/backgrounds/h_img.jpg");
   background-size: cover;
 }
 
@@ -52,7 +52,7 @@ header {
 }
 
 .services {
-  background-image: url("/assets/backgrounds/s_image.jpg");
+  background-image: url("../assets/backgrounds/s_image.jpg");
   background-size: cover;
   padding: 15rem 0;
   color: white;
@@ -99,7 +99,7 @@ header {
 }
 
 .contact-us {
-  background-image: url("/assets/backgrounds/c_image.jpg");
+  background-image: url("../assets/backgrounds/c_image.jpg");
 }
 
 .contact-us__heading h2 {
