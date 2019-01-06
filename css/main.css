@@ -4,6 +4,8 @@
 
 body {
   font-family: 'Roboto', sans-serif;
+  background-color: #EFF0DF;
+  color: #3E3E3E;
 }
 
 header {
@@ -67,5 +69,24 @@ header {
   line-height: 1.6;
   font-size: 1.6rem;
   font-weight: 100;
+}
+
+.what-we-do {
+  margin-bottom: 15rem;
+}
+
+.what-we-do__icon, .what-we-do__heading {
+  margin-bottom: 3rem;
+}
+
+.what-we-do__text p {
+  font-size: 1.6rem;
+}
+
+.what-we-do__h2 h2 {
+  font-size: 3rem;
+  margin-top: 5rem;
+  letter-spacing: .7rem;
+  margin: 9rem 0;
 }
 /*# sourceMappingURL=main.css.map */

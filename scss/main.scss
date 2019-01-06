@@ -6,6 +6,8 @@ $color-sugarcane:#EFF0DF;
 }
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: $color-sugarcane;
+    color: #3E3E3E;
 }
 
 header {
@@ -70,3 +72,27 @@ header {
         font-weight: 100;
     }
 }
+
+// WHAT WE DO SECTION 
+
+.what-we-do{
+    margin-bottom: 15rem;
+
+    &__icon,
+    &__heading {
+        margin-bottom: 3rem;
+    }
+
+    &__text p{
+        font-size: 1.6rem;
+    }
+
+    &__h2 h2 {
+        font-size: 3rem;
+        margin-top: 5rem;
+        letter-spacing: .7rem;
+        margin: 9rem 0;
+    }
+}
+
+
