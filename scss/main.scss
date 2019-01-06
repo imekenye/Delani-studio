@@ -51,3 +51,22 @@ header {
     }
 }
 
+// SERVICES SECTION
+
+.services {
+    background-image: url('/assets/backgrounds/s_image.jpg');
+    background-size: cover;
+    padding:15rem 0;
+    color: white;
+    &__heading h2{
+        font-size: 3rem;
+        text-transform: uppercase;
+        letter-spacing: .7rem;
+        margin-bottom: 5rem;
+    }
+    &__text p{
+        line-height: 1.6;
+        font-size: 1.6rem;
+        font-weight: 100;
+    }
+}
