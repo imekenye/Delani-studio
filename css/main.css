@@ -1,1 +1,33 @@
-/* No CSS *//*# sourceMappingURL=main.css.map */
+* {
+  font-size: 10px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  background-image: url("/assets/backgrounds/h_img.jpg");
+  background-size: cover;
+}
+
+.hero-heading h1 {
+  color: #EFF0DF;
+  font-size: 4rem;
+  padding-bottom: 3rem;
+}
+
+.hero-text p {
+  color: #EFF0DF;
+  font-size: 1.6rem;
+  font-weight: 200;
+}
+
+.hero-logo {
+  padding-bottom: 3rem;
+}
+
+.hero-section {
+  height: 100vh;
+}
+/*# sourceMappingURL=main.css.map */
