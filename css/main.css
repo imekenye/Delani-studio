@@ -89,4 +89,12 @@ header {
   letter-spacing: .7rem;
   margin: 9rem 0;
 }
+
+.portfolio__heading h2 {
+  margin-bottom: 5rem;
+  font-size: 3rem;
+  font-weight: 400;
+  letter-spacing: .2rem;
+  color: #6E6D68;
+}
 /*# sourceMappingURL=main.css.map */
