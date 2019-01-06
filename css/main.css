@@ -30,4 +30,22 @@ header {
 .hero-section {
   height: 100vh;
 }
+
+.about-us {
+  background-color: #EFF0DF;
+  padding: 15rem 0;
+}
+
+.about-us__heading h2 {
+  font-size: 3rem;
+  text-transform: uppercase;
+  letter-spacing: .7rem;
+  margin-bottom: 5rem;
+}
+
+.about-us__text p, .about-us span {
+  line-height: 1.6;
+  font-size: 1.6rem;
+  font-weight: 100;
+}
 /*# sourceMappingURL=main.css.map */

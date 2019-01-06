@@ -31,8 +31,23 @@ header {
     &-section {
         height: 100vh;
     }
+}
 
-    &-mouseclick img {
-    
+// ABOUT US
+
+.about-us {
+    background-color: $color-sugarcane;
+    padding:15rem 0;
+    &__heading h2{
+        font-size: 3rem;
+        text-transform: uppercase;
+        letter-spacing: .7rem;
+        margin-bottom: 5rem;
+    }
+    &__text p,span{
+        line-height: 1.6;
+        font-size: 1.6rem;
+        font-weight: 100;
     }
 }
+
